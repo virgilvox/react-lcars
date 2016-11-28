@@ -10,7 +10,7 @@
   "license": "ISC",
   "dependencies": {
     "glamor": "^2.17.12",
-    "next": "^1.0.0",
+    "next": "^1.1.2",
     "react-dom": "^15.3.2",
     "zooid-ui": "^8.0.0"
   }
